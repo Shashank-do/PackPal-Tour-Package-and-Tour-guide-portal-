@@ -1,59 +1,51 @@
-# PackpalFrontend
+## Project info
+PackPal is a travel planning application designed to help users explore and book curated travel packages. This fullstack project is built using React, Redux Toolkit, and TypeScript, and uses MangoDB Atlas ensuring a scalable and maintainable codebase.
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.10.
+## How can I edit this code?
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-## Development server
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-To start a local development server, run:
+# Step 3: Install the necessary dependencies.
+npm i
 
-```bash
-ng serve
-```
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-## Code scaffolding
+## What technologies are used for this project?
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+This project is built with:
 
-```bash
-ng generate component component-name
-```
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+##Features
+User Authentication: Secure login and registration functionalities.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Package Exploration: Browse through a variety of travel packages with detailed information.
 
-```bash
-ng generate --help
-```
+State Management: Efficient state handling using Redux Toolkit.
 
-## Building
+Responsive Design: Optimized for various devices and screen sizes.
 
-To build the project run:
+API Integration: Seamless communication with the backend server.
 
-```bash
-ng build
-```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
+##To run Backend
+>choose: cd backend
+> npm init -y
+>npm install express mongoose cors dotenv
+>node server.js
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+##To run Frontend
+>Choose:cd packpal-frontend
+>npm i
+>npm run dev
 
-```bash
-ng test
-```
 
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
