@@ -54,6 +54,9 @@ API Integration: Seamless communication with the backend server.
 ![image alt](https://github.com/Shashank-do/PackPal-Tour-Package-and-Tour-guide-portal-/blob/197aa890d688657d647a4399b6caf7a9798056d2/Screenshot%20(26).png)
 ![image alt](https://github.com/Shashank-do/PackPal-Tour-Package-and-Tour-guide-portal-/blob/24cae9819f7a581eea63991eca4f92bfb4d3f111/Screenshot%20(29).png)
 ![image alt](https://github.com/Shashank-do/PackPal-Tour-Package-and-Tour-guide-portal-/blob/1f1eed840babaa90931eb90beaa362e17e32cf85/Screenshot%20(31).png)
+![image alt](https://github.com/Shashank-do/PackPal-Tour-Package-and-Tour-guide-portal-/blob/c95c2012ad7c16b9ecb942856ae9d2ce127dd95d/Screenshot%20(32).png)
 ![image alt]()
 ![image alt]()
+![image alt]()
+
 
