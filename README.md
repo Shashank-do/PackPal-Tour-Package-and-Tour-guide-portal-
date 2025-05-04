@@ -26,6 +26,7 @@ API Integration: Seamless communication with the backend server.
 
 ##To run Backend
 >choose: cd backend
+
 > npm init -y
 
 >npm install express mongoose cors dotenv
@@ -33,9 +34,13 @@ API Integration: Seamless communication with the backend server.
 >node server.js
 
 ##To run Frontend
+
 >Choose:cd packpal-frontend
+
 >npm i
+
 >npm run dev
+
 ## some screenshots below:
 
 ![image alt](https://github.com/Shashank-do/PackPal-Tour-Package-and-Tour-guide-portal-/blob/bba9d16a154b3e5dfadf5ae3ea92bf81a3769532/Screenshot%20(24).png)
