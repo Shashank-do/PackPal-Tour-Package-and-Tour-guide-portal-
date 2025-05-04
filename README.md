@@ -27,7 +27,9 @@ API Integration: Seamless communication with the backend server.
 ##To run Backend
 >choose: cd backend
 > npm init -y
+
 >npm install express mongoose cors dotenv
+
 >node server.js
 
 ##To run Frontend
